@@ -1,0 +1,5 @@
+#!/bin/bash
+echo" Your name:"
+read name
+echo "Enter Your Age:"
+read age
